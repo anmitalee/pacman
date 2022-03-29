@@ -5,4 +5,6 @@
   Download all files to the same folder on your machine and open index.html on your web browser. Click on Create Pacman button to creat a Pacman and click the Start Game to move the pacman.
 ## Future Improvements
   I want to have the Pacmen also change direction, and maybe color, when they collide with each other.
+## License
+  This is an exercise for the MIT Professional Certificate in Coding Course
   
